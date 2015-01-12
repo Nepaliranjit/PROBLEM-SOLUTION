@@ -1,0 +1,9 @@
+HOW TO RUN THIS SCRIPT
+------------------------
+STEPS1:EXTRACT ZIP FILES TO HTDOCS FOLDER OF XAMPP OR IN WWW FOLDERR OF WAMP
+
+STEP2:OPEN YOUR FAVOURATE BROWSER(EG:GOOGLE CHROME)
+
+STEP3:NOW IN ADDRESS BAR OF BROWSER PUT URL LIKE THIS http://localhost/foldername/filename.php
+
+in this case put http://localhost/solution/result.php
